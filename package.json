@@ -1,0 +1,26 @@
+{
+  "name": "bitkub",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Bitkub API",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Chacree Sombutwong",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pleum/bitkub.git"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}
